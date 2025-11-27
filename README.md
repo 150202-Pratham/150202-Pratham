@@ -30,3 +30,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=150202-pratham&show_icons=true&locale=en" alt="150202-pratham" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=150202-pratham&" alt="150202-pratham" /></p>
+<p align="center">
+  <a href="holopin.io/@150202pratham">
+    <img src="https://holopin.me/150202pratham" alt="Holopin Board" />
+  </a>
+</p>
