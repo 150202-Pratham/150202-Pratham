@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratham Garg</h1>
 <h3 align="center">💻 Passionate Backend Developer | 🚀 MERN Stack | 📊 Building Scalable Systems</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=150202-pratham&label=Profile%20views&color=0e75b6&style=flat" alt="150202-pratham" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=150202-pratham" alt="150202-pratham" /></a> </p>
 
 - 🔭 I’m currently working on **Almora( An Scalable Ecommerce Web Application)**
 
@@ -29,7 +27,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=150202-pratham&show_icons=true&locale=en" alt="150202-pratham" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=150202-pratham&" alt="150202-pratham" /></p>
+
 <p align="center">
   <a href="holopin.io/@150202pratham">
     <img src="https://holopin.me/150202pratham" alt="Holopin Board" />
